@@ -1,0 +1,4 @@
+Flask
+requests
+debugpy # Required for debugging.
+google-cloud-aiplatform
